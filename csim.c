@@ -8,25 +8,8 @@
 // Discussion Group: 612
 // Author:           Anna Stephan
 // Email:            amstephan@wisc.edu
-// CS Login:         astephan
 //
-/////////////////////////// OTHER SOURCES OF HELP //////////////////////////////
-//                   fully acknowledge and credit all sources of help,
-//                   other than Instructors and TAs.
-//
-// Persons:          none
-//
-// Online sources:   none
-//
-//////////////////////////// 80 columns wide ///////////////////////////////////
-
-////////////////////////////////////////////////////////////////////////////////
-//
-// Copyright 2013,2019-2020, Jim Skrentny, (skrentny@cs.wisc.edu)
-// Posting or sharing this file is prohibited, including any changes/additions.
-// Used by permission, CS354-Fall 2020, Deb Deppeler (deppeler@cs.wisc.edu) 
-//
-////////////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////
 
 /**
  * csim.c:  
